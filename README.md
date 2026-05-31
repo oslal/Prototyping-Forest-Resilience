@@ -5,3 +5,4 @@
 4C — https://oslal.github.io/Prototyping-Forest-Resilience/Acer-platanoides_4C.html<br>
 5D — https://oslal.github.io/Prototyping-Forest-Resilience/Acer-platanoides_5D.html<br>
 6FG — https://oslal.github.io/Prototyping-Forest-Resilience/Acer-platanoides_6FG.html<br>
+Prototype — https://oslal.github.io/Prototyping-Forest-Resilience/Trait-based-wall-prototype.html
